@@ -95,7 +95,7 @@
     "removeDocWithoutConfirm": false,
     "closeTabsOnStart": false,
     "useSingleLineSave": true,
-    "sort": 6
+    "sort": 0
   },
   "tag": {
     "sort": 4
@@ -113,7 +113,10 @@
     "displayNetImgMark": true,
     "generateHistoryInterval": 10,
     "historyRetentionDays": 30,
-    "emoji": [],
+    "emoji": [
+      "1f984",
+      "1f4ca"
+    ],
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
     "virtualBlockRefInclude": "",
@@ -142,7 +145,7 @@
       "inlineTag": true,
       "inlineMath": true,
       "inlineStrikethrough": true,
-      "inlineMark": false
+      "inlineMark": true
     }
   },
   "export": {
@@ -155,8 +158,9 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "/Users/n.suchev/SiYuan/temp/pandoc/bin/pandoc",
+    "pandocBin": "C:\\Users\\kolxz2Aorus\\SiYuan\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
+    "inlineMemo": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
     "pdfWatermarkStr": "",
@@ -242,7 +246,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "240px",
+              "size": "286px",
               "type": "left"
             },
             {
@@ -250,125 +254,8 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1747903990332",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250327135549-1lxtnrm",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250327135549-1lxtnrm"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-158112 FH. 776. Правки по смарт полям"
-                    },
-                    {
-                      "activeTime": "1747904704441",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250507170248-6m5ku2b",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250507170248-6m5ku2b"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-165947"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1747909595367",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250522120509-kxvs1z9",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250522120509-kxvs1z9"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-166036"
-                    },
-                    {
-                      "activeTime": "1743766118805",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250210140715-rcep0gy",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250210140715-rcep0gy"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-149850 Перенести тесты точки входа в ФЗ на новый экран ОиТ"
-                    },
-                    {
-                      "activeTime": "1743766119500",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250212143243-5vp71as",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250212143243-5vp71as"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-153411 Отображение Финассистента для Джунов"
-                    },
-                    {
-                      "activeTime": "1747904702415",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250225143059-g6eyc63",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250225143056-2u8qess",
-                        "rootId": "20250225143059-g6eyc63"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "дай правильное название методу в рамках given when then на английском "
-                    },
-                    {
-                      "activeTime": "1747904701418",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250305123055-0piptnz",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250225143056-2u8qess",
-                        "rootId": "20250305123055-0piptnz"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "downloadStrings для подтягивания локализации"
-                    },
-                    {
-                      "activeTime": "1747904700229",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250404145018-vtz86pa",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250225143056-2u8qess",
-                        "rootId": "20250404145018-vtz86pa"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Заявка тат 13 "
+                      "children": {},
+                      "instance": "Tab"
                     }
                   ],
                   "height": "",
@@ -433,19 +320,19 @@
       "data": [
         [
           {
-            "hotkey": "⌃1",
+            "hotkey": "⌥1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
             "show": true,
             "size": {
               "height": 0,
-              "width": 240
+              "width": 286
             },
             "title": "Doc Tree",
             "type": "file"
           },
           {
-            "hotkey": "⌃2",
+            "hotkey": "⌥2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
             "show": false,
@@ -457,7 +344,7 @@
             "type": "outline"
           },
           {
-            "hotkey": "⌃6",
+            "hotkey": "⌥6",
             "hotkeyLangId": "inbox",
             "icon": "iconInbox",
             "show": false,
@@ -471,7 +358,7 @@
         ],
         [
           {
-            "hotkey": "⌃3",
+            "hotkey": "⌥3",
             "hotkeyLangId": "bookmark",
             "icon": "iconBookmark",
             "show": false,
@@ -483,7 +370,7 @@
             "type": "bookmark"
           },
           {
-            "hotkey": "⌃4",
+            "hotkey": "⌥4",
             "hotkeyLangId": "tag",
             "icon": "iconTags",
             "show": false,
@@ -502,7 +389,7 @@
       "data": [
         [
           {
-            "hotkey": "⌃8",
+            "hotkey": "⌥8",
             "hotkeyLangId": "graphView",
             "icon": "iconGraph",
             "show": false,
@@ -514,7 +401,7 @@
             "type": "graph"
           },
           {
-            "hotkey": "⌃9",
+            "hotkey": "⌥9",
             "hotkeyLangId": "globalGraph",
             "icon": "iconGlobalGraph",
             "show": false,
@@ -528,7 +415,7 @@
         ],
         [
           {
-            "hotkey": "⌃7",
+            "hotkey": "⌥7",
             "hotkeyLangId": "backlinks",
             "icon": "iconLink",
             "show": false,
@@ -544,7 +431,7 @@
       "pin": true
     }
   },
-  "userData": "",
+  "userData": "d716d5d6812229ac440f08261821941a65df2f81af409cedadc9ed0d0aeeda28785f108f1f868f9c22b35ee2697626441c94b2ff5ffc06f126a91894d876c8f1fa69b3b4b25b9855acb735860c4b506a2cf05adb76c4ec766b9166540f4b4291178fb5b3363f9e0f07b2bb7c496536c0788dab5a2af1accd3d365e662a092f1b3431f7c673fc248b4bf9033d2916e22c1cac6a2fdb8dcbac27263ef32a79762bc8b14d3e35a6d47091af65a6f1393b58e48937e5eccef94deda11a682a0e696f009fe82e77b27513051daf88a06463615bfac51e38c8e7ef8538a79118716eb4996328abd401721f63f53654a574e56ec20c31e53ac5b91ee0ce09a1546fd27523988849e1b51a9f71c407610560ab892b0391fb6e43f43c29b156fa517355a9592187b43f81dcd98f91107249e6c3ace058005f4d7629d59a36c8e31469303d7d2f587002bef8af9c6aae001f3bc7fc1cb132ce9128751f869c685cfd67c60d0b1349a69025cea840258cbfabc55cb9621447ae36d18f2ab21bde933e459e491d4f8b94920afa062095618b212f9af677ee330361da3749b9575b79ef94b550bdb3d6db50be8a4954b100deedab73420d8186422dbe5b68c87f18182e8bb1638fce9954aec9c96bca29ec6c37dc3a70dc4eeec13c985579c06727932b0d7f6e5f0a9dda6df465517a0e326b4fd0da216971665c9f0698447f438622d3d7bb27345c33de3f4109a69479c2073db446c6c0f15fdfbaa066c1f8767791031405ebf62c2243995ab7576754c78a2ba156492e6481451efb75cbe8333b468939bfd76a15bdc3303a9d9e4f57bb140e1fa13794b9b9bcd869af0555126c80347953b5ada2461ce4deb1ccaa24fc27703fc23daef52d3154a393e8dfa57c5e5a2daccda291680bf0c97c413f20f36ed10a1ff99e9397ea5ca8fa00c9bcb1f6abdeff2abc10401d3bece0624ca5c721e9914ce480dd1e95bf4acc666baa8ea349baded17835f86dfbd5f0caf5cb37cc05deb290adcd74284040523918d3bf0518873d7ccd3d6057a038ffb54ba9f9404dde8b1c7744a36fd452028efa7f7eb1ff2cc77c36eaab0e92c98a9ec321f555c1bcd390c6f66d95c4cf0ebe85547bf86be686b6e8dc332f2fa708481e8c8f85afdb6a7bd2410762b04d090ad0469f20db89bfc1bd10a21a415e8c1b4ea2de142a919700c698472c5be727c81803d1beb8b6f3efd264081a300c7831ae6f343cebb34ed59757807687a0265203a40278620bef0b50d8b082405ea29bc8d2b5d0cd5e795cbff5537777fcee40b8ae6d360ff70fc7fb4f846bbe975ba19d7d9a0912615bc7659dce842623fbf6521ca7e65665757b16b73dfa1831bb693848518dc7ef1152c00bd82e0f625519329a12894887461190d03b7c9d64ff6efc3bfdf8eebcc818ee88cef2b6db902a284c898bb9800351ff64dfffa807a2e8b6ace6bb592147f73fa980c9e9c224eda74f40f908fc36d7dc657a62687b9cc2556886257b20fe21b8bc5ad57fc33464b88881a4cef42459f8352c7d874dc92600b223fe89c95d6b81ebf0c4b52f10c6bfec6c80b242746df324468869a9c7605911db5910f1e2b2918333ad36e3970faf22f6539a47c59dd8296ee3b253567dd55dcfac075472329afdb1ea1b669eceba8a34dd48b6324218e06a8964905edf7d5f955abcc6eef4f511e7d16bd441e6af0f9d9f93f2047bdaa277d7c6884e9ccee072e4bf0d265f57ad134ec51e688827333481d2f83eaf414c760b655bb822b48e0815d748b5c6c4a295734ca2700a6d246ecb7d2a4fcbb12c357e6140c136841a435f7d20a1e8bee5c366c07ccc3c75c2c59a0fe028d97bc041ece9a71c4d0c53dbd813eda3782dce88bff42da1d43a5051e4c83be22ab0d13a145ca19c71e9e2930de4c817c18ea91c0f2557a8de83e70342d1f7a744956c2c7c91bfb1f6dd6368c9d51b07bfb9560884ea7cba07ff88e5ca34c378c0f478be5cd396a3df1cb3a25d96d3798bed28065c2ee7b052f177d76e7771b3053dad645da7c75b1c3ceb7d9f0926c6f7f1575d9ab6ee7b489e20752ec92cf235d5a9944ed63c34d025640eb38da8f5cd53774e75205d7640c0a9b7d39c81a77fb42afe26f0dce22796a1afce7626af06e72b8c26093319ab9fb0b79325994da4d0399d34721f353e18768adad6830b7c9d3d339b0400cc9d5ab7e41ca0eb8ae1ece60a7f15c503d5337427c4be2503cfaed7487b6146126eb8bc0b4794e2a887ac18dcb6929202ccb09fd81191f97bb1d44cbf7c2532b42369ffd5c4d9a10e0ce4c402f4902c49c6b934ddf699cbd82889aaad1455f9011344b2c34b25bb0b7bd61d94c8710ae03ad7b441c2fd5465137f0d49336a9728d5eff391435588041a2a50092054043a902eb34a05275d08a376c4984c42543951bbf4746689fc60566db53ca11f9deb02dbd99db2530b8d9eb678c7662d94679891b03bdbe4ca92b003e91ec4bad8dc93184630a9945ba57a7e7b315d1b0975ca352d838fe4e41d4cca4920a495ee312d4459669145f550645aff78c63826d7b8b09ca9d21ea0bef6ff0a19fe5362de2b918b492cefa34b8a8e19d4adf950a9aac46761aa28479204bcdc92b90c3f8de55b5f6b78ab30bec02ab1b907c15f1d05820b3b27ef6e52b57990c4a79475cb57693d92ce02a91248679565c1aa92105e3c686b7dd3766a895f5e6fd6d99d7af45aade380bdc41c6df615081c2afe398f2192261165564c2a0fc088af581e715a2008049cf89a9d26f79f72914162268c35d01e91e31ebe2ada648824243c4f6c77aedf2d4bc2a05bdc975fee4248bcccb07b58bec43990ce97f53a6f86537b9f05ff4d10e6ae4be846915ac6c45e0bcf787f51b42fbb6ead4d52216ad43c0975c6d50a68d80645790d1450597cbb9b5f9f8ede142b5aa500dc35dc712dd03a5b8d30a850d7280609c075983605e0f79ecd8f60f96296e9f44d93353910162536b8910feffebfb8c5ca60b960d4191b7f008dad1638e49c7a683871de3b9901ba5334efdab329a11f550c4440edbc78b7d11902c1e826238060aa6d3a925dd0d2014823335a01ae4bbc9545b36e8db389efe8241d33ea32f1",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -552,31 +439,38 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.31.31",
-    "172.23.2.169",
+    "172.19.0.1",
+    "192.168.31.5",
+    "169.254.177.98",
+    "169.254.236.120",
+    "169.254.108.132",
+    "169.254.38.21",
+    "169.254.40.26",
+    "169.254.65.134",
     "[::1]",
-    "[fe80::1]",
-    "[fe80::d054:aff:feb3:7644]",
-    "[fe80::363c:e3e5:30fe:ecfa]",
-    "[fe80::1185:7a32:2109:ed54]",
-    "[fe80::9b88:74cb:49df:e8fb]",
-    "[fe80::ce81:b1c:bd2c:69e]"
+    "[fe80::c876:3f66:22bf:fe3d]",
+    "[fe80::4465:6dc0:926c:bfa]",
+    "[fe80::6b05:328:c944:187f]",
+    "[fe80::62fd:6b7c:a919:95c2]",
+    "[fe80::276:fcbb:a5c8:44c9]",
+    "[fe80::4a5f:5e75:ccb2:98eb]",
+    "[fe80::c253:8f53:919f:bcf4]"
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "09FA7D63-DE58-5779-BD87-2E5FE134B5FB",
-    "name": "macbook-K2C26H9RTX",
-    "kernelVersion": "3.1.24",
-    "os": "darwin",
-    "osPlatform": "darwin",
+    "id": "efda2690-45bc-4f71-98cb-ab655f3fdd37",
+    "name": "DESKTOP-SP6BJMC",
+    "kernelVersion": "3.1.30",
+    "os": "windows",
+    "osPlatform": "Microsoft Windows 11 Home",
     "container": "std",
-    "isMicrosoftStore": false,
+    "isMicrosoftStore": true,
     "isInsider": false,
-    "homeDir": "/Users/n.suchev",
-    "workspaceDir": "/Users/n.suchev/SiYuan",
-    "appDir": "/Applications/SiYuan.app/Contents/Resources",
-    "confDir": "/Users/n.suchev/SiYuan/conf",
-    "dataDir": "/Users/n.suchev/SiYuan/data",
+    "homeDir": "C:\\Users\\kolxz2Aorus",
+    "workspaceDir": "C:\\Users\\kolxz2Aorus\\SiYuan",
+    "appDir": "C:\\Program Files\\WindowsApps\\89C2A984.SiYuan_3.1.30.0_x64__1qfd3tsw4ngc2\\app\\resources",
+    "confDir": "C:\\Users\\kolxz2Aorus\\SiYuan\\conf",
+    "dataDir": "C:\\Users\\kolxz2Aorus\\SiYuan\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -588,7 +482,7 @@
     "autoLaunch2": 0,
     "lockScreenMode": 0,
     "disabledFeatures": [],
-    "microsoftDefenderExcluded": false
+    "microsoftDefenderExcluded": true
   },
   "keymap": {
     "editor": {
@@ -1017,12 +911,12 @@
         "default": ""
       },
       "backlinks": {
-        "custom": "⌃7",
-        "default": "⌃7"
+        "custom": "⌥7",
+        "default": "⌥7"
       },
       "bookmark": {
-        "custom": "⌃3",
-        "default": "⌃3"
+        "custom": "⌥3",
+        "default": "⌥3"
       },
       "closeAll": {
         "custom": "",
@@ -1057,8 +951,8 @@
         "default": "⌥P"
       },
       "dailyNote": {
-        "custom": "⌃5",
-        "default": "⌃5"
+        "custom": "⌥5",
+        "default": "⌥5"
       },
       "dataHistory": {
         "custom": "⌥H",
@@ -1077,12 +971,12 @@
         "default": "⌥←"
       },
       "fileTree": {
-        "custom": "⌃1",
-        "default": "⌃1"
+        "custom": "⌥1",
+        "default": "⌥1"
       },
       "globalGraph": {
-        "custom": "⌃9",
-        "default": "⌃9"
+        "custom": "⌥9",
+        "default": "⌥9"
       },
       "globalSearch": {
         "custom": "⌘P",
@@ -1149,12 +1043,12 @@
         "default": "⇧⌘["
       },
       "graphView": {
-        "custom": "⌃8",
-        "default": "⌃8"
+        "custom": "⌥8",
+        "default": "⌥8"
       },
       "inbox": {
-        "custom": "⌃6",
-        "default": "⌃6"
+        "custom": "⌥6",
+        "default": "⌥6"
       },
       "lockScreen": {
         "custom": "⌥N",
@@ -1173,8 +1067,8 @@
         "default": "⌘N"
       },
       "outline": {
-        "custom": "⌃2",
-        "default": "⌃2"
+        "custom": "⌥2",
+        "default": "⌥2"
       },
       "recentDocs": {
         "custom": "⌘E",
@@ -1185,8 +1079,8 @@
         "default": "⌘R"
       },
       "riffCard": {
-        "custom": "⌃0",
-        "default": "⌃0"
+        "custom": "⌥0",
+        "default": "⌥0"
       },
       "search": {
         "custom": "⌘F",
@@ -1225,8 +1119,8 @@
         "default": ""
       },
       "tag": {
-        "custom": "⌃4",
-        "default": "⌃4"
+        "custom": "⌥4",
+        "default": "⌥4"
       },
       "toggleDock": {
         "custom": "",
@@ -1339,7 +1233,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.24 std/darwin",
+      "apiUserAgent": "SiYuan/3.1.30 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1349,17 +1243,17 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 14,
+    "treeCount": 0,
     "cTreeCount": 100,
-    "blockCount": 146,
+    "blockCount": 0,
     "cBlockCount": 5000,
-    "dataSize": 7512644,
+    "dataSize": 7442362,
     "cDataSize": 104857600,
     "assetsSize": 6682031,
     "cAssetsSize": 104857600
   },
   "api": {
-    "token": "tk49oi06fs25zg1z"
+    "token": "ciyzgt0nohytdtgv"
   },
   "repo": {
     "key": null,
@@ -1377,7 +1271,7 @@
   },
   "openHelp": false,
   "showChangelog": false,
-  "cloudRegion": 0,
+  "cloudRegion": 1,
   "snippet": {
     "enabledCSS": true,
     "enabledJS": true
