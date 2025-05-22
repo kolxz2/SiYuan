@@ -250,8 +250,7 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "activeTime": "1747903931010",
+                      "activeTime": "1747903990332",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250327135549-1lxtnrm",
@@ -266,7 +265,7 @@
                       "title": "MBAND-158112 FH. 776. Правки по смарт полям"
                     },
                     {
-                      "activeTime": "1747064484233",
+                      "activeTime": "1747904704441",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250507170248-6m5ku2b",
@@ -279,6 +278,22 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "MBAND-165947"
+                    },
+                    {
+                      "active": true,
+                      "activeTime": "1747904709620",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250522120509-kxvs1z9",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250204122859-ct3uqwb",
+                        "rootId": "20250522120509-kxvs1z9"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Untitled"
                     },
                     {
                       "activeTime": "1743766118805",
@@ -311,7 +326,7 @@
                       "title": "MBAND-153411 Отображение Финассистента для Джунов"
                     },
                     {
-                      "activeTime": "1743766122004",
+                      "activeTime": "1747904702415",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250225143059-g6eyc63",
@@ -326,7 +341,7 @@
                       "title": "дай правильное название методу в рамках given when then на английском "
                     },
                     {
-                      "activeTime": "1743767438211",
+                      "activeTime": "1747904701418",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250305123055-0piptnz",
@@ -341,7 +356,7 @@
                       "title": "downloadStrings для подтягивания локализации"
                     },
                     {
-                      "activeTime": "1744009989155",
+                      "activeTime": "1747904700229",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250404145018-vtz86pa",
@@ -354,21 +369,6 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "Заявка тат 13 "
-                    },
-                    {
-                      "activeTime": "1743766117631",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250204122911-cl8ke4g",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250204122859-ct3uqwb",
-                        "rootId": "20250204122911-cl8ke4g"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "MBAND-149851 [7.5.0] Перенести тесты точки входа в Финасистент на новый экран ОиТ"
                     }
                   ],
                   "height": "",
